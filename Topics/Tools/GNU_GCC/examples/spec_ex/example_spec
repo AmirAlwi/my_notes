@@ -1,0 +1,2 @@
+*cpp:
+%:if-exists(/home/amir/repo/my_notes/Topics/Tools/GNU_GCC/examples/compilation intro/hello.c, "string_if_exists", "string_if_not_exists")

@@ -22,5 +22,8 @@ Documenting my journey mastering various topics
 -- GCC command option\
 -- Static/Dynamic Linking\
 -- Static libraries\
--- 4hours
->2.
+-- 5hours
+>2. > \>\> 23/9/2024 \<\< \
+-- GCC option \
+-- speck file intro \
+-- 2hours
